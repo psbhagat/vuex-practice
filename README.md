@@ -1,4 +1,5 @@
 # vuex-practice
+
 A simple project show casing different things that can be done using vuex.
 
 
